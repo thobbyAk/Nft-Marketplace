@@ -32,6 +32,7 @@ yarn-error.log*
 
 # vercel
 .vercel
+<<<<<<< HEAD
 
 node_modules
 .env
@@ -43,3 +44,5 @@ typechain
 #Hardhat files
 cache
 artifacts
+=======
+>>>>>>> ab45441 (Initial commit from Create Next App)
