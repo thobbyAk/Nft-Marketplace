@@ -32,7 +32,14 @@ yarn-error.log*
 
 # vercel
 .vercel
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 9db1e55 (nft marketplace local host build)
+>>>>>>> bfc6dd9 (nft marketplace local host build)
 
 node_modules
 .env
@@ -44,4 +51,12 @@ typechain
 #Hardhat files
 cache
 artifacts
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 012d0dd (Initial commit from Create Next App)
+=======
+>>>>>>> 9db1e55 (nft marketplace local host build)
+>>>>>>> bfc6dd9 (nft marketplace local host build)
