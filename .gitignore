@@ -33,6 +33,9 @@ yarn-error.log*
 # vercel
 .vercel
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> e487b16 (nft marketplace local host build)
 
 node_modules
 .env
@@ -44,5 +47,8 @@ typechain
 #Hardhat files
 cache
 artifacts
+<<<<<<< HEAD
 =======
 >>>>>>> ab45441 (Initial commit from Create Next App)
+=======
+>>>>>>> e487b16 (nft marketplace local host build)
