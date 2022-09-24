@@ -6,8 +6,8 @@ import Web3Modal from "web3modal";
 
 import { nftAddress, nftMarketAddress } from "../config";
 
-import NFT from "../artifacts/contracts/NFT.sol/NFT.json";
-import Market from "../artifacts/contracts/NFTMarket.sol/NFTMarket.json";
+import NFT from "../abi/NFT.json";
+import Market from "../abi/NFTMarket.json";
 const ipfsClient = require("ipfs-http-client");
 
 const projectSecret = process.env.NEXT_PUBLIC_PROJECT;
